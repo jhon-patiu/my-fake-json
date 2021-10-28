@@ -1,6 +1,8 @@
 {
-  "name" : "Jhon Patiu",
-  "position" : "Junior React Developer",
-  "image": "https://www.seekpng.com/ima/u2w7o0r5r5a9a9e6/",
-  "description": "this is a custom json for my next.js project"
+  "myFakeJson": {
+       "name" : "Jhon Patiu",
+       "position" : "Junior React Developer",
+       "image": "https://www.seekpng.com/ima/u2w7o0r5r5a9a9e6/",
+       "description": "this is a custom json for my next.js project"
+  }
 }
